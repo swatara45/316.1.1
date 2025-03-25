@@ -1,6 +1,6 @@
 //Part 1
 let mainEl = document.querySelector("main");
-console.log(mainEl[0]);
+console.log(mainEl);
 mainEl.style.backgroundColor = "var(--main-bg)"
 
 //Set the content of mainEl to <h1>DOM Manipulation</h1>.
